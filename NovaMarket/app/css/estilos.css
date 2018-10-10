@@ -1,0 +1,170 @@
+.navbar{
+    margin-bottom: 0;
+}
+.jumbotron{
+    background: #428BCA;
+    color:#fff;
+    padding: 56px 0;
+}
+header{
+    background: #2c3e50;
+    color: #fff;
+}
+.main{
+    background: #fff;
+}
+.color1{
+    background: #34495e;
+    color: #fff;
+}
+aside{
+    background: #428BCA;
+    color: #fff;
+}
+footer{
+    background: #27AE60;
+    color:#fff;
+}
+.padding{
+    margin: 0px;
+    padding: 0px;
+    color: #fff;
+    font-family: arial;
+}
+div#imagen{
+    width: 580px;
+    height: 180px;
+    background-image: url(../images/tecnologia.jpg);
+}
+div#info{
+    position:absolute;
+    top:0px;
+    left:0px;
+    width: 580px;
+    height: 180px;
+    background-color: rgba(31, 31, 31, 0.9);
+}
+p#headline{
+    position:absolute;
+    top:0px;
+    left:0px;
+    font-size: 28px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+p#infop{
+    width: 560px;
+    height: 160px;
+    margin-left: 30px;
+    margin-top: 60px;
+    font-size: 17px;
+    text-align: left;
+}
+
+
+div#mueble{
+    width: 580px;
+    height: 180px;
+    background-image: url(../images/muebles.jpg);
+}
+
+div#infomuebles{
+    position:absolute;
+    top:0px;
+    left:0px;
+    width: 580px;
+    height: 180px;
+    background-color: rgba(31, 31, 31, 0.9);
+}
+
+p#headmueble{
+    position:absolute;
+    top:0px;
+    left:0px;
+    font-size: 28px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+p#infomueble{
+    width: 560px;
+    height: 160px;
+    margin-left: 30px;
+    margin-top: 60px;
+    font-size: 17px;
+    text-align: left;
+}
+p#footerid{
+    text-align: center;
+    font-size: 28px;
+}
+p#infofooter{
+    text-align: center;
+    font-size: 15px;
+}
+
+
+
+div#imagenrest{
+    width: 580px;
+    height: 180px;
+    background-image: url(../images/restaurante2.jpg);
+}
+
+div#restinfo{
+    position:absolute;
+    left:0px;
+    width: 580px;
+    height: 180px;
+    background-color: rgba(31, 31, 31, 0.9);
+}
+
+p#headrest{
+    position:absolute;
+    left:0px;
+    font-size: 28px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.inforest {
+    width: 580px;
+    height: 180px;
+    margin-left: 30px;
+    margin-top: 60px;
+    font-size: 17px;
+    text-align: left;
+    padding-right: 50px;
+}
+
+div#imagenllantas {
+    width: 580px;
+    height: 180px;
+    background-image: url('../images/llantas.jpeg');
+}
+
+div#llantasinfo{
+    position:absolute;
+    left:0px;
+    width: 580px;
+    height: 180px;
+    background-color: rgba(31, 31, 31, 0.9);
+}
+
+p#headllantas{
+    position:absolute;
+    left:0px;
+    font-size: 28px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+p#infollantas{
+    width: 580px;
+    height: 180px;
+    margin-left: 30px;
+    margin-top: 60px;
+    font-size: 17px;
+    text-align: left;
+    padding-right: 50px;
+}
