@@ -51,7 +51,7 @@
 
                     <div class="form-group register">
                         <label class="col-xs-12 mini" ><br />Si no tienes cuenta <br/></label>
-                        <label class="col-xs-12" for="register">Has click <a href="#">aquí</a> para registrarte</label>
+                        <label class="col-xs-12" for="register">Has click <a href="RegistroCliente.aspx">aquí</a> para registrarte</label>
                     </div>
                 </form>
             </fieldset>

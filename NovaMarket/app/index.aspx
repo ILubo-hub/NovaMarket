@@ -43,7 +43,7 @@
                             </ul>
                         </li>
                         <li><a href="#">Contacto</a></li>
-                        <li><a href="../InicioSesion.aspx" icon>Iniciar Sesión</a></li>
+                        <li><a href="InicioSesion.aspx" icon>Iniciar Sesión</a></li>
                     </ul>
                     <form action="" class="navbar-form navbar-right" role="search">
                         <div class="form-group">

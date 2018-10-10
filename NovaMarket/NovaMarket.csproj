@@ -95,10 +95,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="app\css\estilosInicioSesion.css" />
+    <Content Include="app\css\estilosRegistro.css" />
     <Content Include="app\images\llantas.jpeg" />
     <Content Include="app\images\logo.jpg" />
     <Content Include="app\images\supermercadoInicio.jpg" />
+    <Content Include="app\images\supermercadoRegistro.jpg" />
     <Content Include="app\InicioSesion.aspx" />
+    <Content Include="app\RegistroCliente.aspx" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -155,6 +158,13 @@
     </Compile>
     <Compile Include="app\InicioSesion.aspx.designer.cs">
       <DependentUpon>InicioSesion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="app\RegistroCliente.aspx.cs">
+      <DependentUpon>RegistroCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="app\RegistroCliente.aspx.designer.cs">
+      <DependentUpon>RegistroCliente.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
