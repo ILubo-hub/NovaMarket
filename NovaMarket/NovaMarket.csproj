@@ -97,8 +97,12 @@
     <Content Include="app\css\estilosInicioSesion.css" />
     <Content Include="app\css\estilosMenuAdmin.css" />
     <Content Include="app\css\estilosRegistro.css" />
+    <Content Include="app\images\carrito_ico.png" />
     <Content Include="app\images\llantas.jpeg" />
     <Content Include="app\images\logo.jpg" />
+    <Content Include="app\images\logo2.0Celeste.png" />
+    <Content Include="app\images\logoblanco.png" />
+    <Content Include="app\images\logoDelgado.png" />
     <Content Include="app\images\supermercadoInicio.jpg" />
     <Content Include="app\images\supermercadoRegistro.jpg" />
     <Content Include="app\indexAdmin.aspx" />

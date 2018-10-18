@@ -14,7 +14,8 @@
     <div class="container formulario">
         <div class="row">
             <div class="col-xs-4 col-xs-offset-4">
-                <img src="images/logo.jpg" class="logo center-block" />
+                
+                <img src="images/carrito_ico.png" class="logo center-block" />
             </div>
         </div>
         <div class="espaciado">
@@ -48,9 +49,17 @@
                     <div class="form-group">
                         <button type="button" class="btn btn-primary center-block" onclick="redireccion()">Aceptar</button>
                     </div>
+                    <!--Boton que hay que eliminar-->
+                    <div class="form-group">
+                        <button type="button" class="btn btn-primary center-block" onclick="redireccion2()">Admin</button>
+                    </div>
 
                     <div class="form-group register">
-                        <label class="col-xs-12 mini" ><br />Si no tienes cuenta <br/></label>
+                        <label class="col-xs-12 mini">
+                            <br />
+                            Si no tienes cuenta
+                            <br />
+                        </label>
                         <label class="col-xs-12" for="register">Has click <a href="RegistroCliente.aspx">aquí</a> para registrarte</label>
                     </div>
                 </form>
@@ -60,6 +69,9 @@
     <script>
         function redireccion() {
             document.location.href = "index.aspx";
+        }
+        function redireccion2() {
+            document.location.href = "indexAdmin.aspx";
         }
     </script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>

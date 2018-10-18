@@ -43,7 +43,7 @@
                         </li>
                         <li><a href="#">Contacto</a></li>
                         <li><a href="InicioSesion.aspx" icon>Iniciar Sesión</a></li>
-                        <li><a href="#">Administrador</a></li>
+                        <li><a href="MenuAdmin.aspx">Administrador</a></li>
                     </ul>
                     <form action="" class="navbar-form navbar-right" role="search">
                         <div class="form-group">
@@ -60,8 +60,9 @@
     </header>
     <section class="jumbotron">
         <div class="container">
-            <h1 class="titulo-blog">Nova Market</h1>
-            <p>Tus compras desde la comodidad de tu casa</p>
+            <!--<h1 class="titulo-blog">Nova Market</h1>-->
+            <img src="images/logoDelgado.png" />
+            <!--<p>Tus compras desde la comodidad de tu casa</p>-->
         </div>
     </section>
     <section class="main container"></section>

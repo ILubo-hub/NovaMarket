@@ -12,6 +12,7 @@
 </head>
 <body>
     <div class="wrapper">
+        
         <nav id="sidebar">
             <div class="sidebar-header">
                 <h3>Mantenimientos</h3>
@@ -61,7 +62,7 @@
                     </ul>
                 </li>
                 <li>
-                    <a href="#">About</a>
+                    <a href="indexAdmin.aspx">Inicio</a>
                 </li>
                 <li>
                     <a href="#">Portfolio</a>
@@ -82,7 +83,7 @@
                 </div>
             </nav>
             <div class="container">
-
+                <img class="imagen align img1" src="images/logo2.0Celeste.png"/>
             </div>
 
         </div>
@@ -98,8 +99,15 @@
 
             $('#sidebarCollapse').on('click', function () {
                 $('#sidebar').toggleClass('active');
+                $('img').toggleClass('align');
             });
-
+            if ($('#sidebar').hasClass('active')) {
+                $('img').addClass('align');
+                $('img').removeClass('imagen');
+            } else {
+                $('img').removeClass('align');
+                $('img').addClass('imagen');
+            }    
         });
     </script>
 </body>

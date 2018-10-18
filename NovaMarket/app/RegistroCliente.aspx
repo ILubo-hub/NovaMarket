@@ -14,7 +14,7 @@
     <div class="container formulario">
         <div class="row">
             <div class="col-xs-4 col-xs-offset-4">
-                <img src="images/logo.jpg" class="logo center-block" />
+                <img src="images/carrito_ico.png" class="logo center-block" />
             </div>
         </div>
         <div class="espaciado">
