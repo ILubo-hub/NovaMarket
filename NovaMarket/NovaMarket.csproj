@@ -95,12 +95,15 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="app\css\estilosInicioSesion.css" />
+    <Content Include="app\css\estilosMenuAdmin.css" />
     <Content Include="app\css\estilosRegistro.css" />
     <Content Include="app\images\llantas.jpeg" />
     <Content Include="app\images\logo.jpg" />
     <Content Include="app\images\supermercadoInicio.jpg" />
     <Content Include="app\images\supermercadoRegistro.jpg" />
+    <Content Include="app\indexAdmin.aspx" />
     <Content Include="app\InicioSesion.aspx" />
+    <Content Include="app\MenuAdmin.aspx" />
     <Content Include="app\RegistroCliente.aspx" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
@@ -152,12 +155,26 @@
     <Compile Include="app\index.aspx.designer.cs">
       <DependentUpon>index.aspx</DependentUpon>
     </Compile>
+    <Compile Include="app\indexAdmin.aspx.cs">
+      <DependentUpon>indexAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="app\indexAdmin.aspx.designer.cs">
+      <DependentUpon>indexAdmin.aspx</DependentUpon>
+    </Compile>
     <Compile Include="app\InicioSesion.aspx.cs">
       <DependentUpon>InicioSesion.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="app\InicioSesion.aspx.designer.cs">
       <DependentUpon>InicioSesion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="app\MenuAdmin.aspx.cs">
+      <DependentUpon>MenuAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="app\MenuAdmin.aspx.designer.cs">
+      <DependentUpon>MenuAdmin.aspx</DependentUpon>
     </Compile>
     <Compile Include="app\RegistroCliente.aspx.cs">
       <DependentUpon>RegistroCliente.aspx</DependentUpon>
