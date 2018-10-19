@@ -11,7 +11,19 @@ namespace NovaMarket.app
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            ddlProvincias.Items.Insert(0, "Alajuela");
+            ddlProvincias.Items.Insert(1, "San José");
+            ddlProvincias.Items.Insert(2, "Cartago");
+            ddlProvincias.Items.Insert(3, "Heredia");
+            ddlProvincias.Items.Insert(4, "Puntarenas");
+            ddlProvincias.Items.Insert(5, "Guanacaste");
+            ddlProvincias.Items.Insert(6, "Limon");
 
+        }
+
+        protected void btn_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("InicioSesion.aspx");
         }
     }
 }

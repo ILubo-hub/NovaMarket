@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="RegistroCliente.aspx.cs" Inherits="NovaMarket.app.RegistroCliente" %>
 
 <!DOCTYPE html>
-<html lang="es" xmlns="http://www.w3.org/1999/xhtml">
+<html lang="es" xmlns="http://www.w3.org/1999/xhtml" runat="server">
 <head runat="server">
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximun-scale=1.0, minimun-scale=1.0" />
@@ -25,14 +25,15 @@
                     <h3>Registro de Usuario</h3>
                 </legend>
 
-                <form class="form-horizontal">
+                <form class="form-horizontal" runat="server">
 
                     <div class="form-group">
                         <label class="col-xs-12" for="id">
                             <h4>Número Cédula</h4>
                         </label>
                         <div class="col-xs-10 col-xs-offset-1">
-                            <input type="text" id="id" class="form-control Input" />
+                            <!--<input type="text" id="id" class="form-control Input" />-->
+                            <asp:TextBox ID="txtUNumeroCedula" TextMode="Number" class="form-control Input" runat="server"></asp:TextBox>
                         </div>
                     </div>
 
@@ -41,7 +42,8 @@
                             <h4>Nombre</h4>
                         </label>
                         <div class="col-xs-10 col-xs-offset-1">
-                            <input type="text" id="nombre" class="form-control Input" />
+                            <!--<input type="text" id="nombre" class="form-control Input" />-->
+                            <asp:TextBox ID="txtNombre" class="form-control Input" runat="server" ></asp:TextBox>
                         </div>
                     </div>
 
@@ -50,7 +52,8 @@
                             <h4>Apellidos</h4>
                         </label>
                         <div class="col-xs-10 col-xs-offset-1">
-                            <input type="text" id="apellido" class="form-control Input" />
+                            <!--<input type="text" id="apellido" class="form-control Input" />-->
+                            <asp:TextBox ID="txtApellidos" class="form-control Input" runat="server"></asp:TextBox>
                         </div>
                     </div>
 
@@ -59,7 +62,8 @@
                             <h4>Telefono</h4>
                         </label>
                         <div class="col-xs-10 col-xs-offset-1">
-                            <input type="number" id="telefono" class="form-control Input" />
+                            <!--<input type="number" id="telefono" class="form-control Input" />-->
+                            <asp:TextBox ID="txtNumeroTelefono" TextMode="Number" class="form-control Input" runat="server"></asp:TextBox>
                         </div>
                     </div>
 
@@ -68,8 +72,7 @@
                             <h4>Provincia</h4>
                         </label>
                         <div class="col-xs-10 col-xs-offset-1">
-
-                            <div class="select" style="color:white">
+                            <!--<div class="select" style="<color:white">
                                 <select>
                                     <option value="alajuela">Alajuela</option>
                                     <option value="sanjose">San Jose</option>
@@ -79,7 +82,8 @@
                                     <option value="limon">Limon</option>
                                     <option value="puntarenas">Puntarenas</option>
                                 </select>
-                            </div>
+                            </div>-->
+                            <asp:DropDownList class="select" ID="ddlProvincias" runat="server" ForeColor="White"></asp:DropDownList>
                         </div>
                     </div>
 
@@ -88,7 +92,8 @@
                             <h4>Correo Electrónico</h4>
                         </label>
                         <div class="col-xs-10 col-xs-offset-1">
-                            <input type="email" id="correo" class="form-control Input" />
+                            <!--<input type="email" id="correo" class="form-control Input" />-->
+                             <asp:TextBox ID="txtCorreo" class="form-control Input" runat="server"></asp:TextBox>
                         </div>
                     </div>
 
@@ -97,12 +102,14 @@
                             <h4>Contraseña</h4>
                         </label>
                         <div class="col-xs-10 col-xs-offset-1">
-                            <input type="password" id="password" class="form-control Input" />
+                            <!--<input type="password" id="password" class="form-control Input" />-->
+                            <asp:TextBox ID="txtContrasena" TextMode="Password" class="form-control Input" runat="server"></asp:TextBox>
                         </div>
                     </div>
 
                     <div class="form-group">
-                        <button type="button" class="btn btn-primary center-block" onclick="redireccion()">Registrarse</button>
+                        <!--<button type="button" class="btn btn-primary center-block" onclick="redireccion()">Registrarse</button>-->
+                        <asp:Button class="btn btn-primary center-block" ID="btnRegistrar" onclick="btn_Click" runat="server" Text="Registrarse" />
                     </div>
                 </form>
             </fieldset>

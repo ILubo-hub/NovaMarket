@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="InicioSesion.aspx.cs" Inherits="NovaMarket.InicioSesion" %>
 
 <!DOCTYPE html>
-<html lang="es" xmlns="http://www.w3.org/1999/xhtml">
+<html lang="es" xmlns="http://www.w3.org/1999/xhtml" runat="server">
 <head runat="server">
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximun-scale=1.0, minimun-scale=1.0" />
@@ -26,14 +26,15 @@
                     <h3>Inicio de Sesión</h3>
                 </legend>
 
-                <form class="form-horizontal">
+                <form class="form-horizontal" runat="server">
 
                     <div class="form-group">
                         <label class="col-xs-12" for="usuario">
                             <h4>Usuario</h4>
                         </label>
                         <div class="col-xs-10 col-xs-offset-1">
-                            <input type="text" id="usuario" class="form-control Input" />
+                            <!--<input type="text" id="usuario" class="form-control Input" />-->
+                                <asp:TextBox ID="txtUsuario" class="form-control Input" runat="server"></asp:TextBox>
                         </div>
                     </div>
 
@@ -42,16 +43,13 @@
                             <h4>Contraseña</h4>
                         </label>
                         <div class="col-xs-10 col-xs-offset-1">
-                            <input type="password" id="password" class="form-control Input" />
+                            <!--<input type="password" id="password" class="form-control Input" />-->
+                            <asp:TextBox ID="txtContrasena" TextMode="Password" class="form-control Input" runat="server"></asp:TextBox>
                         </div>
                     </div>
-
                     <div class="form-group">
-                        <button type="button" class="btn btn-primary center-block" onclick="redireccion()">Aceptar</button>
-                    </div>
-                    <!--Boton que hay que eliminar-->
-                    <div class="form-group">
-                        <button type="button" class="btn btn-primary center-block" onclick="redireccion2()">Admin</button>
+                        <!--<button type="button" class="btn btn-primary center-block" onclick="redireccion2()">Admin</button>-->
+                            <asp:Button class="btn btn-primary center-block" ID="btn" onclick="btn_Click" runat="server" Text="Listo" />
                     </div>
 
                     <div class="form-group register">
