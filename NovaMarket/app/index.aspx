@@ -44,14 +44,23 @@
                         </li>
                         <li><a href="#">Contacto</a></li>
                         <li><a href="InicioSesion.aspx" icon>Iniciar Sesión</a></li>
+                        <form action="" class="navbar-form navbar-right" role="search">
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="buscar" />
+                            </div>
+                            <!--El type submit es por si se usa php, puede ser que se haga igual con c#-->
+                            <button type="submit" class="btn btn-primary">
+                                <span class="glyphicon glyphicon-search"></span>
+                            </button>
+                        </form>
                     </ul>
                     <form action="" class="navbar-form navbar-right" role="search">
                         <div class="form-group">
-                            <input type="text" class="form-control" placeholder="buscar" />
+                            <asp:Label ID="lblNombreUsuario" runat="server" Text="Jonathan Morera Garcia"></asp:Label>
                         </div>
                         <!--El type submit es por si se usa php, puede ser que se haga igual con c#-->
                         <button type="submit" class="btn btn-primary">
-                            <span class="glyphicon glyphicon-search"></span>
+                            <span class="glyphicon glyphicon-user"></span>
                         </button>
                     </form>
                 </div>
@@ -60,8 +69,7 @@
     </header>
     <section class="jumbotron">
         <div class="container">
-            <h1 class="titulo-blog">Nova Market</h1>
-            <p>Tus compras desde la comodidad de tu casa</p>
+            <img src="images/logoDelgado.png" />
         </div>
     </section>
     <section class="main container"></section>
@@ -129,26 +137,26 @@
                         - Variedad de comida para todos los gustos gustos.
                     </p>
                 </div>
+            </div>
+            <div id="imagenllantas" class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <div id="llantasinfo">
+                    <p id="headllantas" style="color: white">Llantas</p>
+                    <p id="infollantas" style="color: white">
+                        -Bridgestone, Capital, Michelin, Pirelli
+                            <br />
+                        <br />
+                        -La mejor variedad de precios para que se ajuste a su billetera
+                    </p>
                 </div>
-                <div id="imagenllantas" class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                    <div id="llantasinfo">
-                        <p id="headllantas" style="color:white">Llantas</p>
-                        <p id="infollantas" style="color: white">
-                            -Bridgestone, Capital, Michelin, Pirelli
-                            <br/>
-                            <br/>
-                            -La mejor variedad de precios para que se ajuste a su billetera
-                        </p>
-                    </div>
-                </div>
+            </div>
         </div>
     </div>
     <div class="container">
         <div class="row">
             <div id="imagen" class="col-md-6">
                 <div id="info">
-                    <p id="headline" style="color:#fff">Tecnología</p>
-                    <p id="infop" style="color:white">
+                    <p id="headline" style="color: #fff">Tecnología</p>
+                    <p id="infop" style="color: white">
                         - Desde pantallas, computadoras hasta celulares.
                         <br />
                         <br />
@@ -157,18 +165,18 @@
                 </div>
             </div>
             <div class="clearfix visible-sm-block"></div>
-        <div id="mueble" class="col-md-6">
-            <div id="infomuebles">
-                <p id="headmueble" style="color:#fff">Mueblería</p>
-                <p id="infomueble" style="color:white">
-                    - Muebles de todo tipo para tu Hogar.
+            <div id="mueble" class="col-md-6">
+                <div id="infomuebles">
+                    <p id="headmueble" style="color: #fff">Mueblería</p>
+                    <p id="infomueble" style="color: white">
+                        - Muebles de todo tipo para tu Hogar.
                     <br />
-                    <br />
-                    - Desde juegos de comedor y alacenas hasta los mejores sillones para lucir tu sala más elegante
-                </p>
+                        <br />
+                        - Desde juegos de comedor y alacenas hasta los mejores sillones para lucir tu sala más elegante
+                    </p>
+                </div>
             </div>
         </div>
-      </div>
     </div>
     <br />
     <br />

@@ -44,14 +44,23 @@
                         <li><a href="#">Contacto</a></li>
                         <li><a href="InicioSesion.aspx" icon>Iniciar Sesión</a></li>
                         <li><a href="MenuAdmin.aspx">Administrador</a></li>
+                        <form action="" class="navbar-form navbar-right" role="search">
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="buscar" />
+                            </div>
+                            <!--El type submit es por si se usa php, puede ser que se haga igual con c#-->
+                            <button type="submit" class="btn btn-primary">
+                                <span class="glyphicon glyphicon-search"></span>
+                            </button>
+                        </form>
                     </ul>
                     <form action="" class="navbar-form navbar-right" role="search">
                         <div class="form-group">
-                            <input type="text" class="form-control" placeholder="buscar" />
+                            <asp:Label ID="lblNombreUsuario" runat="server" Text="Jonathan Morera Garcia"></asp:Label>
                         </div>
                         <!--El type submit es por si se usa php, puede ser que se haga igual con c#-->
                         <button type="submit" class="btn btn-primary">
-                            <span class="glyphicon glyphicon-search"></span>
+                            <span class="glyphicon glyphicon-user"></span>
                         </button>
                     </form>
                 </div>
