@@ -11,7 +11,7 @@ namespace NovaMarket.app
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            Label1.Text = Session["NomAdmin"].ToString();
         }
     }
 }

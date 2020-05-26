@@ -11,7 +11,19 @@ namespace NovaMarket
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (Session["nombre"]!= null)
+            {
+                lblNombreUsuario.Text = Session["nombre"].ToString();
+            }
+            else
+            {
+                lblNombreUsuario.Visible = false;
+            }
+        }
 
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("EditarUsuario.aspx");
         }
     }
 }

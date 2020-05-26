@@ -21,47 +21,36 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a href="#" class="navbar-brand">NovaMarket</a>
+                    <a href="#" class="onoff navbar-brand">NovaMarket</a>
                 </div>
                 <!--Inicia Menu-->
                 <div class="collapse navbar-collapse" id="navegacion-fm">
                     <ul class="nav navbar-nav">
                         <li class="active"><a href="#">Incio</a></li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Productos <span class="caret"></span>
+
+                            <a href="VentaProductos.aspx" class="dropdown-toggle" role="button">Productos <span class="caret"></span>
                             </a>
-                            <ul class="dropdown-menu" role="menu">
-                                <li><a href="#">Tecnologia</a></li>
-                                <li class="divider"></li>
-                                <li><a href="#">Hogar</a></li>
-                                <li class="divider"></li>
-                                <li><a href="#">Ropa</a></li>
-                                <li class="divider"></li>
-                                <li><a href="#">Muebles</a></li>
-                                <li class="divider"></li>
-                                <li><a href="#">Comida</a></li>
-                            </ul>
+                            
                         </li>
                         <li><a href="#">Contacto</a></li>
                         <li><a href="InicioSesion.aspx" icon>Iniciar Sesión</a></li>
-                        <form action="" class="navbar-form navbar-right" role="search">
+                        <form class="navbar-form navbar-right" role="search">
                             <div class="form-group">
                                 <input type="text" class="form-control" placeholder="buscar" />
                             </div>
                             <!--El type submit es por si se usa php, puede ser que se haga igual con c#-->
-                            <button type="submit" class="btn btn-primary">
+                            <button type="submit" class="btnBuscar btn btn-primary">
                                 <span class="glyphicon glyphicon-search"></span>
                             </button>
                         </form>
                     </ul>
-                    <form action="" class="navbar-form navbar-right" role="search">
+                    <form action="" class="navbar-form navbar-right" role="search" runat="server">
                         <div class="form-group">
-                            <asp:Label ID="lblNombreUsuario" runat="server" Text="Jonathan Morera Garcia"></asp:Label>
+                            <asp:Label CssClass="admin1" ID="lblNombreUsuario" runat="server" Text="Jonathan Morera Garcia"></asp:Label>
                         </div>
                         <!--El type submit es por si se usa php, puede ser que se haga igual con c#-->
-                        <button type="submit" class="btn btn-primary">
-                            <span class="glyphicon glyphicon-user"></span>
-                        </button>
+                        <asp:Button ID="Button1" runat="server" CssClass="btn btn-primary" Text="Usuario" OnClick="Button1_Click" /><!--<span class="glyphicon glyphicon-user"></span>-->
                     </form>
                 </div>
             </div>
@@ -69,7 +58,7 @@
     </header>
     <section class="jumbotron">
         <div class="container">
-            <img src="images/logoDelgado.png" />
+            <img class="imgJumbotron" src="images/logoDelgado.png" />
         </div>
     </section>
     <section class="main container"></section>

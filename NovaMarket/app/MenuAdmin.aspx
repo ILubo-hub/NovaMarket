@@ -15,6 +15,7 @@
         
         <nav id="sidebar">
             <div class="sidebar-header">
+                <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
                 <h3>Mantenimientos</h3>
             </div>
             <ul class="list-unstyled components">
@@ -22,28 +23,25 @@
                     <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle hover1">Productos<i class="icono fas fa-chevron-down"></i></a>
                     <ul class="collapse list-unstyled" id="homeSubmenu">
                         <li>
-                            <a href="#">Tecnología</a>
+                            <a href="ProductosTecno.aspx">Tecnología</a>
                         </li>
                         <li>
-                            <a href="#">Comida</a>
+                            <a href="ProductosComida.aspx">Comida</a>
                         </li>
                         <li>
-                            <a href="#">Restaurante</a>
+                            <a href="ProductosRest.aspx">Restaurante</a>
                         </li>
                         <li>
-                            <a href="#">Ropa</a>
+                            <a href="ProductosRopa.aspx">Ropa</a>
                         </li>
                         <li>
-                            <a href="#">Llantas</a>
+                            <a href="ProductosLlantas.aspx">Llantas</a>
                         </li>
                     </ul>
                     <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle hover1">Usuarios<i class="icono fas fa-chevron-down"></i></a>
                     <ul class="collapse list-unstyled" id="pageSubmenu">
                         <li>
-                            <a href="#">Administradores</a>
-                        </li>
-                        <li>
-                            <a href="#">Clientes</a>
+                            <a href="Administradores.aspx">Administradores</a>
                         </li>
                     </ul>
                 </li>

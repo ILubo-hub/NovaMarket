@@ -64,3 +64,300 @@ C:\Users\Jonathan\Documents\GitHub\NovaMarket\NovaMarket\bin\Microsoft.CodeDom.P
 C:\Users\Jonathan\Documents\GitHub\NovaMarket\NovaMarket\obj\Debug\NovaMarket.csprojResolveAssemblyReference.cache
 C:\Users\Jonathan\Documents\GitHub\NovaMarket\NovaMarket\obj\Debug\NovaMarket.dll
 C:\Users\Jonathan\Documents\GitHub\NovaMarket\NovaMarket\obj\Debug\NovaMarket.pdb
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\ApplicationInsights.config
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\roslyn\csc.exe
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\roslyn\vbc.exe
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\NovaMarket.dll.config
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\NovaMarket.dll
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\NovaMarket.pdb
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\Microsoft.AI.Web.dll
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\Microsoft.AI.Web.xml
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\obj\Debug\NovaMarket.csprojResolveAssemblyReference.cache
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\obj\Debug\NovaMarket.dll
+C:\Users\Maverick PC\Desktop\NovaMarket\NovaMarket\obj\Debug\NovaMarket.pdb
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\ApplicationInsights.config
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\csc.exe
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\vbc.exe
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\NovaMarket.dll.config
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\NovaMarket.dll
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\NovaMarket.pdb
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.Web.dll
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.Web.xml
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\obj\Debug\NovaMarket.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\obj\Debug\NovaMarket.dll
+C:\Users\Jonathan\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\obj\Debug\NovaMarket.pdb
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\ApplicationInsights.config
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\csc.exe
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\vbc.exe
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\NovaMarket.dll.config
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\NovaMarket.dll
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\NovaMarket.pdb
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.Web.dll
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.Web.xml
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\obj\Debug\NovaMarket.csprojResolveAssemblyReference.cache
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\obj\Debug\NovaMarket.dll
+C:\Users\Maverick PC\Desktop\Proyecto 4\Proyecto\NovaMarket\NovaMarket\obj\Debug\NovaMarket.pdb
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\ApplicationInsights.config
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\csc.exe
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\vbc.exe
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\NovaMarket.dll.config
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\NovaMarket.dll
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\NovaMarket.pdb
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.Web.dll
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.Web.xml
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\obj\Debug\NovaMarket.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\obj\Debug\NovaMarket.dll
+C:\Users\Jonathan\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\obj\Debug\NovaMarket.pdb
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\ApplicationInsights.config
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\csc.exe
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\vbc.exe
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\NovaMarket.dll.config
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\NovaMarket.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\NovaMarket.pdb
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.Web.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.Web.xml
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\obj\Debug\NovaMarket.csprojResolveAssemblyReference.cache
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\obj\Debug\NovaMarket.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizadoRepeater\Proyecto 4\Proyecto\NovaMarket\NovaMarket\obj\Debug\NovaMarket.pdb
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\ApplicationInsights.config
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\csc.exe
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\vbc.exe
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\NovaMarket.dll.config
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\NovaMarket.dll
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\NovaMarket.pdb
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.Web.dll
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.Web.xml
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\obj\Debug\NovaMarket.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\obj\Debug\NovaMarket.dll
+C:\Users\Jonathan\Desktop\El mas moderno\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\obj\Debug\NovaMarket.pdb
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\ApplicationInsights.config
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\csc.exe
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\vbc.exe
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\NovaMarket.dll.config
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\NovaMarket.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\NovaMarket.pdb
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.Web.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.Web.xml
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\obj\Debug\NovaMarket.csprojResolveAssemblyReference.cache
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\obj\Debug\NovaMarket.dll
+C:\Users\Maverick PC\Desktop\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\obj\Debug\NovaMarket.pdb
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\ApplicationInsights.config
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\csc.exe
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\vbc.exe
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\NovaMarket.dll.config
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\NovaMarket.dll
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\NovaMarket.pdb
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.Web.dll
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.Web.xml
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\obj\Debug\NovaMarket.csprojResolveAssemblyReference.cache
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\obj\Debug\NovaMarket.dll
+C:\Users\Jona5\Desktop\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\obj\Debug\NovaMarket.pdb
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\ApplicationInsights.config
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\csc.exe
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\vbc.exe
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\NovaMarket.dll.config
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\NovaMarket.dll
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\NovaMarket.pdb
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.Web.dll
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.Web.xml
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\obj\Debug\NovaMarket.csprojResolveAssemblyReference.cache
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\obj\Debug\NovaMarket.dll
+C:\Users\Jona5\Documents\Nova\ProyectoActualizado_4_12_18\Proyecto 4\Proyecto\NovaMarket\NovaMarket\obj\Debug\NovaMarket.pdb

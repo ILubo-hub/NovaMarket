@@ -94,9 +94,19 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\Administradores.aspx" />
+    <Content Include="app\AgregarAdmin.aspx" />
+    <Content Include="app\AgregarCarrito.aspx" />
+    <Content Include="app\AgregarProductos.aspx" />
+    <Content Include="app\css\estilosIndexAdmin.css" />
     <Content Include="app\css\estilosInicioSesion.css" />
+    <Content Include="app\css\estilosMantenimientos.css" />
     <Content Include="app\css\estilosMenuAdmin.css" />
     <Content Include="app\css\estilosRegistro.css" />
+    <Content Include="app\css\estilosVentas.css" />
+    <Content Include="app\EditarAdministradores.aspx" />
+    <Content Include="app\EditarProductos.aspx" />
+    <Content Include="app\EditarUsuario.aspx" />
     <Content Include="app\images\carrito_ico.png" />
     <Content Include="app\images\llantas.jpeg" />
     <Content Include="app\images\logo.jpg" />
@@ -107,8 +117,16 @@
     <Content Include="app\images\supermercadoRegistro.jpg" />
     <Content Include="app\indexAdmin.aspx" />
     <Content Include="app\InicioSesion.aspx" />
+    <Content Include="app\js\eventos.js" />
     <Content Include="app\MenuAdmin.aspx" />
+    <Content Include="app\ProductosComida.aspx" />
+    <Content Include="app\ProductosLlantas.aspx" />
+    <Content Include="app\ProductosRest.aspx" />
+    <Content Include="app\ProductosRopa.aspx" />
+    <Content Include="app\ProductosTecno.aspx" />
     <Content Include="app\RegistroCliente.aspx" />
+    <Content Include="app\VentaProductos.aspx" />
+    <Content Include="app\VistaCarrito.aspx" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -152,6 +170,74 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="app\Administradores.aspx.cs">
+      <DependentUpon>Administradores.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="app\Administradores.aspx.designer.cs">
+      <DependentUpon>Administradores.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="app\AgregarAdmin.aspx.cs">
+      <DependentUpon>AgregarAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="app\AgregarAdmin.aspx.designer.cs">
+      <DependentUpon>AgregarAdmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="app\AgregarCarrito.aspx.cs">
+      <DependentUpon>AgregarCarrito.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="app\AgregarCarrito.aspx.designer.cs">
+      <DependentUpon>AgregarCarrito.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="app\AgregarProductos.aspx.cs">
+      <DependentUpon>AgregarProductos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="app\AgregarProductos.aspx.designer.cs">
+      <DependentUpon>AgregarProductos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="app\BLL\AdminLogica.cs" />
+    <Compile Include="app\BLL\CarritoBLL.cs" />
+    <Compile Include="app\BLL\CienteLogica.cs" />
+    <Compile Include="app\BLL\FacturaBLL.cs" />
+    <Compile Include="app\BLL\ProductoLogica.cs" />
+    <Compile Include="app\DAL\AdminDatos.cs" />
+    <Compile Include="app\DAL\CarritoDAL.cs" />
+    <Compile Include="app\DAL\ClienteDatos.cs" />
+    <Compile Include="app\DAL\Conexion.cs" />
+    <Compile Include="app\DAL\FacturaDAL.cs" />
+    <Compile Include="app\DAL\ProductoDatos.cs" />
+    <Compile Include="app\EditarAdministradores.aspx.cs">
+      <DependentUpon>EditarAdministradores.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="app\EditarAdministradores.aspx.designer.cs">
+      <DependentUpon>EditarAdministradores.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="app\EditarProductos.aspx.cs">
+      <DependentUpon>EditarProductos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="app\EditarProductos.aspx.designer.cs">
+      <DependentUpon>EditarProductos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="app\EditarUsuario.aspx.cs">
+      <DependentUpon>EditarUsuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="app\EditarUsuario.aspx.designer.cs">
+      <DependentUpon>EditarUsuario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="app\Entidades\Administrador.cs" />
+    <Compile Include="app\Entidades\Carrito.cs" />
+    <Compile Include="app\Entidades\Cliente.cs" />
+    <Compile Include="app\Entidades\DetalleFactura.cs" />
+    <Compile Include="app\Entidades\EncabezadoFactura.cs" />
+    <Compile Include="app\Entidades\Factura.cs" />
+    <Compile Include="app\Entidades\Producto.cs" />
+    <Compile Include="app\Entidades\Provincia.cs" />
     <Compile Include="app\index.aspx.cs">
       <DependentUpon>index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -180,12 +266,61 @@
     <Compile Include="app\MenuAdmin.aspx.designer.cs">
       <DependentUpon>MenuAdmin.aspx</DependentUpon>
     </Compile>
+    <Compile Include="app\ProductosComida.aspx.cs">
+      <DependentUpon>ProductosComida.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="app\ProductosComida.aspx.designer.cs">
+      <DependentUpon>ProductosComida.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="app\ProductosLlantas.aspx.cs">
+      <DependentUpon>ProductosLlantas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="app\ProductosLlantas.aspx.designer.cs">
+      <DependentUpon>ProductosLlantas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="app\ProductosRest.aspx.cs">
+      <DependentUpon>ProductosRest.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="app\ProductosRest.aspx.designer.cs">
+      <DependentUpon>ProductosRest.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="app\ProductosRopa.aspx.cs">
+      <DependentUpon>ProductosRopa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="app\ProductosRopa.aspx.designer.cs">
+      <DependentUpon>ProductosRopa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="app\ProductosTecno.aspx.cs">
+      <DependentUpon>ProductosTecno.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="app\ProductosTecno.aspx.designer.cs">
+      <DependentUpon>ProductosTecno.aspx</DependentUpon>
+    </Compile>
     <Compile Include="app\RegistroCliente.aspx.cs">
       <DependentUpon>RegistroCliente.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="app\RegistroCliente.aspx.designer.cs">
       <DependentUpon>RegistroCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="app\VentaProductos.aspx.cs">
+      <DependentUpon>VentaProductos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="app\VentaProductos.aspx.designer.cs">
+      <DependentUpon>VentaProductos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="app\VistaCarrito.aspx.cs">
+      <DependentUpon>VistaCarrito.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="app\VistaCarrito.aspx.designer.cs">
+      <DependentUpon>VistaCarrito.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

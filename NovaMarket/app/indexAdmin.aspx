@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximun-scale=1.0, minimun-scale=1.0" />
     <title></title>
     <link rel="stylesheet" href="css/bootstrap.min.css" />
-    <link rel="stylesheet" href="css/estilos.css" />
+    <link href="css/estilosIndexAdmin.css" rel="stylesheet" />
 </head>
 <body>
     <header>
@@ -20,8 +20,9 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a href="#" class="navbar-brand">NovaMarket</a>
+                    <a href="#" class="onoff navbar-brand">NovaMarket</a>
                 </div>
+                 
                 <!--Inicia Menu-->
                 <div class="collapse navbar-collapse" id="navegacion-fm">
                     <ul class="nav navbar-nav">
@@ -46,17 +47,17 @@
                         <li><a href="MenuAdmin.aspx">Administrador</a></li>
                         <form action="" class="navbar-form navbar-right" role="search">
                             <div class="form-group">
-                                <input type="text" class="form-control" placeholder="buscar" />
+                                <input type="text" class="buscartam form-control" placeholder="buscar" />
                             </div>
                             <!--El type submit es por si se usa php, puede ser que se haga igual con c#-->
-                            <button type="submit" class="btn btn-primary">
+                            <button type="submit" class="btnBuscar btn btn-primary">
                                 <span class="glyphicon glyphicon-search"></span>
                             </button>
                         </form>
                     </ul>
                     <form action="" class="navbar-form navbar-right" role="search">
                         <div class="form-group">
-                            <asp:Label ID="lblNombreUsuario" runat="server" Text="Jonathan Morera Garcia"></asp:Label>
+                            <asp:Label CssClass="admin1" ID="lblNombreUsuario" runat="server" Text="Jonathan Morera Garcia"></asp:Label>
                         </div>
                         <!--El type submit es por si se usa php, puede ser que se haga igual con c#-->
                         <button type="submit" class="btn btn-primary">
@@ -70,7 +71,7 @@
     <section class="jumbotron">
         <div class="container">
             <!--<h1 class="titulo-blog">Nova Market</h1>-->
-            <img src="images/logoDelgado.png" />
+            <img class="imgJumbotron" src="images/logoDelgado.png" />
             <!--<p>Tus compras desde la comodidad de tu casa</p>-->
         </div>
     </section>
@@ -128,7 +129,7 @@
     <br />
 
     <div class="container">
-        <div class="row">
+        <div class="esti1 row">
             <div id="imagenrest" class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                 <div id="restinfo">
                     <p id="headrest" style="color: white">Restaurante</p>
@@ -154,7 +155,7 @@
         </div>
     </div>
     <div class="container">
-        <div class="row">
+        <div class="esti1 row">
             <div id="imagen" class="col-md-6">
                 <div id="info">
                     <p id="headline" style="color: #fff">Tecnología</p>

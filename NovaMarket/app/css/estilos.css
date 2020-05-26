@@ -1,58 +1,69 @@
-.navbar{
+.navbar {
     margin-bottom: 0;
 }
-.jumbotron{
+
+.jumbotron {
     background: #428BCA;
-    color:#fff;
+    color: #fff;
     padding: 56px 0;
 }
-header{
+
+header {
     background: #2c3e50;
     color: #fff;
 }
-.main{
+
+.main {
     background: #fff;
 }
-.color1{
+
+.color1 {
     background: #34495e;
     color: #fff;
 }
-aside{
+
+aside {
     background: #428BCA;
     color: #fff;
 }
-footer{
+
+footer {
     background: #27AE60;
-    color:#fff;
+    color: #fff;
 }
-.padding{
+
+.padding {
     margin: 0px;
     padding: 0px;
     color: #fff;
     font-family: arial;
 }
-div#imagen{
+
+div#imagen {
     width: 580px;
     height: 180px;
     background-image: url(../images/tecnologia.jpg);
 }
-div#info{
-    position:absolute;
-    top:0px;
-    left:0px;
+
+div#info {
+    position: absolute;
+    top: 0px;
+    left: 0px;
     width: 580px;
     height: 180px;
     background-color: rgba(31, 31, 31, 0.9);
 }
-p#headline{
-    position:absolute;
-    top:0px;
-    left:0px;
+
+p#headline {
+    position: absolute;
+    top: 0px;
+    left: 0px;
     font-size: 28px;
     margin-left: 20px;
     margin-top: 10px;
 }
-p#infop{
+
+p#infop {
     width: 560px;
     height: 160px;
     margin-left: 30px;
@@ -62,31 +73,31 @@ p#infop{
 }
 
 
-div#mueble{
+div#mueble {
     width: 580px;
     height: 180px;
     background-image: url(../images/muebles.jpg);
 }
 
-div#infomuebles{
-    position:absolute;
-    top:0px;
-    left:0px;
+div#infomuebles {
+    position: absolute;
+    top: 0px;
+    left: 0px;
     width: 580px;
     height: 180px;
     background-color: rgba(31, 31, 31, 0.9);
 }
 
-p#headmueble{
-    position:absolute;
-    top:0px;
-    left:0px;
+p#headmueble {
+    position: absolute;
+    top: 0px;
+    left: 0px;
     font-size: 28px;
     margin-left: 20px;
     margin-top: 10px;
 }
 
-p#infomueble{
+p#infomueble {
     width: 560px;
     height: 160px;
     margin-left: 30px;
@@ -94,34 +105,36 @@ p#infomueble{
     font-size: 17px;
     text-align: left;
 }
-p#footerid{
+
+p#footerid {
     text-align: center;
     font-size: 28px;
 }
-p#infofooter{
+
+p#infofooter {
     text-align: center;
     font-size: 15px;
 }
 
 
 
-div#imagenrest{
+div#imagenrest {
     width: 580px;
     height: 180px;
     background-image: url(../images/restaurante2.jpg);
 }
 
-div#restinfo{
-    position:absolute;
-    left:0px;
+div#restinfo {
+    position: absolute;
+    left: 0px;
     width: 580px;
     height: 180px;
     background-color: rgba(31, 31, 31, 0.9);
 }
 
-p#headrest{
-    position:absolute;
-    left:0px;
+p#headrest {
+    position: absolute;
+    left: 0px;
     font-size: 28px;
     margin-left: 20px;
     margin-top: 10px;
@@ -143,23 +156,23 @@ div#imagenllantas {
     background-image: url('../images/llantas.jpeg');
 }
 
-div#llantasinfo{
-    position:absolute;
-    left:0px;
+div#llantasinfo {
+    position: absolute;
+    left: 0px;
     width: 580px;
     height: 180px;
     background-color: rgba(31, 31, 31, 0.9);
 }
 
-p#headllantas{
-    position:absolute;
-    left:0px;
+p#headllantas {
+    position: absolute;
+    left: 0px;
     font-size: 28px;
     margin-left: 20px;
     margin-top: 10px;
 }
 
-p#infollantas{
+p#infollantas {
     width: 580px;
     height: 180px;
     margin-left: 30px;
@@ -167,4 +180,101 @@ p#infollantas{
     font-size: 17px;
     text-align: left;
     padding-right: 50px;
+}
+
+.imgJumbotron {
+    margin-right: 3rem;
+}
+
+@media screen and (max-width:998px) {
+    .imgJumbotron {
+        width: 700px;
+    }
+}
+
+@media screen and (max-width:717px) {
+    .imgJumbotron {
+        width: 600px;
+    }
+}
+
+@media screen and (max-width:618px) {
+    .imgJumbotron {
+        width: 500px;
+    }
+}
+
+@media screen and (max-width:522px) {
+    .imgJumbotron {
+        width: 400px;
+    }
+}
+
+@media screen and (max-width:425px) {
+    .imgJumbotron {
+        width: 300px;
+    }
+}
+
+@media screen and (max-width:1199px) {
+    .admin1 {
+        display: none;
+    }
+    .row{
+        margin-left:20%;
+    }
+}
+
+
+@media screen and (max-width: 995px) {
+
+    .navbar-form .form-control {
+        display: inline-block;
+        width: 100px;
+        vertical-align: middle;
+    }
+}
+
+
+
+@media screen and (max-width: 995px) {
+
+    .navbar-form .form-control {
+        display: inline-block;
+        width: 100px;
+        vertical-align: middle;
+    }
+}
+
+@media screen and (max-width: 1300px){
+    .onoff{
+        display:none;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .onoff{
+        display:inline-block;
+    }
+    .admin1{
+        display:inline-block;
+    }
+    .row{
+        margin-left:2%;
+        margin-right:2%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+
+    .navbar-form .form-control {
+        display: inline-block;
+        width: 200px;
+        vertical-align: middle;
+        margin-left:13px;
+    }
+    .btnBuscar{
+        display:inline-block;
+        margin-left:13px;
+    }
 }
